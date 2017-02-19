@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_selfie">New Selfie</string>
+    <string name="action_delete_selfie">Delete</string>
+    <string name="action_delete_all_selfies">Delete All</string>
+    <string name="quit_message">Thanks for test my app!</string>
+    <string name="positive_button">Ok</string>
+    <string name="negative_button">Wait!</string>
+    <string name="delete_all">Delete all selfies?</string>
+    <string name="delete_selfie">Delete selfie?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="notification_message">Time for another selfie</string>
+
+</resources>

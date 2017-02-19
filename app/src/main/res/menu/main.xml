@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jorgesys2.dailyselfie.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/new_selfie"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_new_selfie"/>
+   <!--  <item
+        android:id="@+id/delete_selfie"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_delete_selfie"/>-->
+    <item
+        android:id="@+id/delete_all"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_delete_all_selfies"/>
+
+</menu>
